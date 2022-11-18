@@ -188,13 +188,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+.footer-1 {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer-1 h2 {
+.footer-1 h4 {
     font-size: 20px;
 }
